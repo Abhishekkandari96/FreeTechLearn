@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Retrevedata"
+    android:background="@drawable/toolbar_header">
+
+  <TextView
+      android:id="@+id/title_"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Know your Info"
+      android:textStyle="bold"
+      android:textColor="@color/white"
+      android:textSize="24sp"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="32dp"/>
+  <EditText
+      android:id="@+id/numb"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Enter Your Mobile No"
+      android:textStyle="bold"
+      android:textColor="@color/white"
+      android:textSize="24sp"
+      android:layout_below="@+id/title_"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="32dp"/>
+  <Button
+      android:id="@+id/ret_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Retreve Your Data"
+      android:layout_below="@+id/numb"
+      android:layout_marginTop="16dp"
+      android:layout_centerHorizontal="true"/>
+
+  <ListView
+      android:id="@+id/list"
+      android:background="@color/white"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@+id/ret_button"
+      android:layout_marginTop="16dp"
+      android:layout_centerHorizontal="true"/>
+</RelativeLayout>

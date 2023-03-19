@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68581782434",
+    "project_id": "freetechlearn-63268",
+    "storage_bucket": "freetechlearn-63268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68581782434:android:ef933ca1d59c1bb1b1b8fb",
+        "android_client_info": {
+          "package_name": "com.example.freetechlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68581782434-5b805pq2dtomb3srtbb5ha0moc48td4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv_FzKJYVEspkilonNVnJjK4kBNPZF9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68581782434-5b805pq2dtomb3srtbb5ha0moc48td4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/splashlogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FreeTechLearn"
+        tools:targetApi="31">
+        <activity
+            android:name=".VideoFullScreenProject"
+            android:exported="false"
+
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".LearnProjects"
+            android:exported="false"
+
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Help"
+            android:exported="false"
+
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".VideoFullScreenHtml"
+            android:exported="false"
+
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".LearnHtml"
+            android:exported="false"
+
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".VideoFullscreen"
+            android:exported="false"
+
+            android:screenOrientation="landscape"/>
+        <activity
+            android:name=".LearnJava"
+            android:exported="false"
+
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Retrevedata"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Editprofile"
+            android:exported="false"
+
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Dashboard"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LogIn"
+            android:exported="false"
+            android:label="Back"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SignIn"
+            android:exported="false"
+            android:label="Back"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
