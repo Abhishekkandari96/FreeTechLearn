@@ -9,29 +9,6 @@ It is basic Android Application Project for learnig android development
 Java, DataStructure, Algorithm, XML design 
 
 
-## Screenshots
-
-This is the initial View
-
-
-![Application Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/1.jpg)
-
-![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/2.jpg)
-
-![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/3.jpg)
-
-![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/4.jpg)
-
-![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/5.jpg)
-
-![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/6.jpg)
-
-![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/7.jpg)
-
-
-
-
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kandari-4ba2b2184/)
 
@@ -69,4 +46,26 @@ It is integrated as a chatbot to help student during learning
 - Video Streaming
 - Authentication
 - Datastorage 
+
+## Screenshots
+
+This is the initial View
+
+
+![Application Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/1.jpg)
+
+![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/2.jpg)
+
+![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/3.jpg)
+
+![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/4.jpg)
+
+![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/5.jpg)
+
+![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/6.jpg)
+
+![App Screenshot ](https://github.com/Abhishekkandari96/FreeTechLearn/blob/master/FreeTech%20SS/7.jpg)
+
+
+
 
